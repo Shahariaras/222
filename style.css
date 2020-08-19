@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.mrow {
+    max-width: 850px;
+    width: 100%;
+    margin: auto;
+}
+.height {
+    height: 150px;
+}
+.btnc {
+    padding: 5px 20px;
+    border-radius: 99px;
+    background: #4d58aa;
+    border: .5px solid #4d58aa;
+    color: white;
+}
+.btnc2 {
+    padding: 3px 10px !important;
+    border-radius: 50px;
+    color: white;
+    border: .5px solid white;
+}
+.btnc:hover {
+    background: #222b6e;
+}
+.box1 {
+    width: 200px;
+    height: 300px;
+    margin: 25px 15px;
+    border-radius: 3px;
+}
+.box1:hover {
+    transition: .3s;
+    background: linear-gradient(3deg, rgb(238, 238, 247) 0%, rgba(9,54,121,0.17689073920583853) 0%, rgba(0,212,255,1) 0%);
+    box-shadow: 2px 2px 2px 2px #d3d0d0;
+}
+.liste li {
+    list-style: none;
+    padding: 10px;
+
+}
+.liste li a b {
+
+    color: rgb(75, 73, 73);
+}
+.bbg {
+    width: 800px;
+    height: 150px;
+    margin-left: 40.7%;
+    position: absolute;
+    display: flex;
+}
+.cc {
+    color: white;
+}
+.box2 {
+    width: 150px;
+    height: 150px;
+    margin: 60px;
+    border-radius: 30px;
+}
+.box3 {
+    margin: 15px auto;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(204,148,233,1) 100%);
+    width: 100px;
+    height: 80px;
+    border-radius: 30px;
+}
+.box2:hover {
+    border-radius: 10px;
+    background: rgb(68, 64, 64);
+}
+li a:hover {
+    color: rgb(214, 159, 57);
+}
